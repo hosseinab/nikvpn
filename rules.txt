@@ -1,8 +1,6 @@
 Terms and Conditions of Service
 
-Last modified: December 30, 2019
-
-By using this site and making use of ProtonVPN, a service offered by Proton Technologies AG ("the Company"), you agree to abide by the following Terms and Conditions. These Terms and Conditions cover all present and future features offered by your ProtonVPN account, individually and collectively referred to as the "Service".
+By using this site and making use of NIKVPN, a service offered by NIK Technologies AG ("the Company"), you agree to abide by the following Terms and Conditions. These Terms and Conditions cover all present and future features offered by your NIKVPN account, individually and collectively referred to as the "Service".
 Users of the Service
 
 This Service is provided exclusively to individuals who are at least 13 years of age, or to minors who have obtained parental or legal guardian consent to open and maintain an account.
@@ -28,7 +26,7 @@ The Company does not control, nor is responsible for, any data, content, service
 
 The Company will attempt to make the Service available at all times; however, VPN service coverage, speeds, server locations and quality may vary. The Company is not responsible for data, messages or pages lost, not delivered, delayed or misdirected because of interruptions or performance issues with the Service or communications services or networks. The Company may impose usage or service limits, suspend service, or block certain kinds of usage at our sole discretion.
 
-The ProtonVPN website may contain links to other websites of interest. However, The Company is not responsible for the content of any website that it links to, and external sites are governed by their own terms and conditions and privacy policies.
+The NIKVPN website may contain links to other websites of interest. However, The Company is not responsible for the content of any website that it links to, and external sites are governed by their own terms and conditions and privacy policies.
 
 The Company may make improvements and changes to the Service at any time without notice. The Company may at its sole discretion terminate service without cause or notice.
 Indemnification
@@ -36,7 +34,7 @@ Indemnification
 You agree that the Company and any parents, subsidiaries, officers, employees, or third-party contractors cannot be held responsible for any third-party claim, demand, or damages, including reasonable attorneys' fees, arising out of your use of this Service.
 Privacy policy
 
-ProtonVPN's Privacy Policy (https://protonvpn.com/privacy-policy) explains the way the Company handles and protects your personal data and privacy in relation to your use of the Service and your browsing of the protonvpn.com website. By agreeing to the present Terms and Conditions and to be able to use the Service, you agree to our Privacy Policy.
+NIKVPN's Privacy Policy (https://NIKVPN.com/privacy-policy) explains the way the Company handles and protects your personal data and privacy in relation to your use of the Service and your browsing of the NIKVPN.com website. By agreeing to the present Terms and Conditions and to be able to use the Service, you agree to our Privacy Policy.
 General terms of payment
 
 The Company reserves the right to discontinue service immediately if a fraudulent payment is detected, such as the use of a stolen credit card, and such cases may be further referred to the competent authorities.
@@ -47,7 +45,7 @@ By subscribing to the Service, you agree to become a subscriber for the period y
 If you fail to fulfill your obligation of payment as a user of a paid account, the Company may suspend your account or delete it after an extended period of default.
 Money Back Guarantee
 
-You may cancel your account with a refund for any unused portion of the service period within 30 days of the initial purchase. Here, any unused portion of the service period refers to the prorated remaining full days of the subscription period. Refunds or credits beyond the 30 days window will be considered, but at the sole discretion of the Service. The Company is only obligated to refund in the original currency of payment and refunds will be processed within 30 days of the request. To request a refund under our Money Back Guarantee, send an email with your request to support@protonvpn.com. This money back guarantee clause is only applicable to users who have subscribed to ProtonVPN directly through the official ProtonVPN or the official ProtonMail website (e.g. if you have subscribed to ProtonVPN through the intermediary of a third-party processor, please refer to its respective refund policy).
+You may cancel your account with a refund for any unused portion of the service period within 30 days of the initial purchase. Here, any unused portion of the service period refers to the prorated remaining full days of the subscription period. Refunds or credits beyond the 30 days window will be considered, but at the sole discretion of the Service. The Company is only obligated to refund in the original currency of payment and refunds will be processed within 30 days of the request. To request a refund under our Money Back Guarantee, send an email with your request to support@NIKVPN.com. This money back guarantee clause is only applicable to users who have subscribed to NIKVPN directly through the official NIKVPN or the official NIKMail website (e.g. if you have subscribed to NIKVPN through the intermediary of a third-party processor, please refer to its respective refund policy).
 
 If you rely on dispute or chargeback mechanisms of third-party payment processors, you waive your right to the above mentioned refund from the Company. Furthermore, if the result of the dispute or chargeback mechanisms causes the Company to be liable for an amount exceeding the price paid for the service (e.g. dispute fee), you authorize the Company to charge that amount on your account.
 
